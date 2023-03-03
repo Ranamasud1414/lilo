@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/lilo/static/css/main.22a55f4a.css",
-    "main.js": "/lilo/static/js/main.31e9a03e.js",
+    "main.js": "/lilo/static/js/main.b7d4bccf.js",
     "static/media/office.svg.svg": "/lilo/static/media/office.svg.678417ab1275418b74022da97f364b32.svg",
     "static/media/com.png": "/lilo/static/media/com.572984cadaa7e85c9743.png",
     "static/media/about.svg": "/lilo/static/media/about.dc7b44bd626143cd74f32691f474d2eb.svg",
     "index.html": "/lilo/index.html",
     "main.22a55f4a.css.map": "/lilo/static/css/main.22a55f4a.css.map",
-    "main.31e9a03e.js.map": "/lilo/static/js/main.31e9a03e.js.map"
+    "main.b7d4bccf.js.map": "/lilo/static/js/main.b7d4bccf.js.map"
   },
   "entrypoints": [
     "static/css/main.22a55f4a.css",
-    "static/js/main.31e9a03e.js"
+    "static/js/main.b7d4bccf.js"
   ]
 }
